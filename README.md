@@ -1,5 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&pause=1000&color=F70000&background=000000&width=435&lines=i'm+Erick+Villa" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&pause=1000&color=F70000&multiline=true&width=435&lines=i'm+Erick+Villa" alt="Typing SVG" /></a>
 
 
 # 💫 About Me:
