@@ -3,6 +3,7 @@
 </a>
 
 
+
 # 💫 About Me:
 👋 I'm a front-end developer specializing in React and Material-UI. I create responsive, user-friendly interfaces with a focus on performance and accessibility. I also have experience in IT support, ensuring seamless hardware and software functionality. Passionate about crafting clean, maintainable code and staying updated on the latest web technologies! 💻✨
  
