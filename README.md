@@ -1,5 +1,7 @@
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=32&pause=1000&width=435&lines=Hi+i'm+Erick+Villa&color=red" alt="Typing SVG" />
+</a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=32&pause=1000&width=435&lines=Hi+i'm+Erick+Villa" alt="Typing SVG" /></a>
 
 # 💫 About Me:
 👋 I'm a front-end developer specializing in React and Material-UI. I create responsive, user-friendly interfaces with a focus on performance and accessibility. I also have experience in IT support, ensuring seamless hardware and software functionality. Passionate about crafting clean, maintainable code and staying updated on the latest web technologies! 💻✨
